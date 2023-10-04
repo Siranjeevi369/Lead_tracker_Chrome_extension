@@ -1,0 +1,23 @@
+*{
+    text-align: center;
+}
+#inp-le{
+    width: 400px;
+    height: 30px;
+    border: 2px solid green;
+    border-radius: 3px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+button{
+    height: 40px;
+    width: 130px;
+    background-color: green;
+    color: white;
+    border-radius: 5px;
+    border: 2px solid green;
+}
+#delete-btn{
+    background-color: white;
+    color: green;
+}
